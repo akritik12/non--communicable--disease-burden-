@@ -1,4 +1,4 @@
-# non--communicable--disease-burden-# 🫀 NCD Burden Atlas: India vs the World
+ 🫀 NCD Burden Atlas: India vs the World
 
 **A PySpark data pipeline and dashboard that measures how much non-communicable disease (heart disease, cancer, diabetes, chronic lung disease and others) costs India in lives and healthy years, how that compares with the rest of the world, and whether India is on track to meet its UN 2030 target.**
 
